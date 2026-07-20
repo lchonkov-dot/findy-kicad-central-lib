@@ -27,9 +27,4 @@
   (fp_arc (start -2.15 -0) (end -2.100 -0) (angle -180) (layer F.SilkS) (width 0.1))
   (pad 1 smd rect (at -1.250 -0 0) (size 1.000 1.800) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.250 -0 0) (size 1.000 1.800) (layers F.Cu F.Paste F.Mask))
-  (model "${KIPRJMOD}/../../../libs/central-lib/3d_models/ABS07N-32.768kHz-T.stp"
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))c:\Users\LyubomirChonkov\Desktop\libraries_KiCAD\SamacSys_Parts.3dshapes\ABS07N-32.768kHz-T.stp
-)
 )
